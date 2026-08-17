@@ -1,4 +1,5 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h3>Date: 17-08-2026</h3>
 <h3>Name: Mithun Kumar G         </h3>
 <h3>Register Number: 212224230160          </h3>
 <H3>Aim:</H3>
